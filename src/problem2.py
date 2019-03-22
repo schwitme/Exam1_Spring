@@ -174,9 +174,9 @@ def problem3(string_of_characters):
     for k in range(len(string_of_characters) - 1, -1, -1):
         new_string = new_string + string_of_characters[k]
         if string_of_characters[k] != ' ':
-            if type(string_of_characters[k]) == int:
+            if string_of_characters[k].isdigit():
                 count_int += 1
-            elif type(string_of_characters[k]) == str:
+            else:
                 count_char += 1
     print('Number of alphabetic characters: ', count_char)
     print('Number of digits: ', count_int)
