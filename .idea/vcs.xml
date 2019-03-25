@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../01-IntroductionToPython" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../02-ObjectsFunctionsAndMethods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../03-AccumulatorsAndFunctionsWithParameters" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../04-TheAccumulatorPattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../05a-Debugging" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../05b-Exam1Practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../09-ImplementingClasses" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../10-MoreImplementingClasses" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../11-Sequences" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../12-MoreSequences" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../13-Exam2Practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../16-SequencesAndMutation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Exam1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Exam_2_Week_10" vcs="Git" />
   </component>
 </project>

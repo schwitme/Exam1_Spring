@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../01-IntroductionToPython/.idea/01-IntroductionToPython.iml" filepath="$PROJECT_DIR$/../01-IntroductionToPython/.idea/01-IntroductionToPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02-ObjectsFunctionsAndMethods/.idea/02-ObjectsFunctionsAndMethods.iml" filepath="$PROJECT_DIR$/../02-ObjectsFunctionsAndMethods/.idea/02-ObjectsFunctionsAndMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03-AccumulatorsAndFunctionsWithParameters/.idea/03-AccumulatorsAndFunctionsWithParameters.iml" filepath="$PROJECT_DIR$/../03-AccumulatorsAndFunctionsWithParameters/.idea/03-AccumulatorsAndFunctionsWithParameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04-TheAccumulatorPattern/.idea/04-TheAccumulatorPattern.iml" filepath="$PROJECT_DIR$/../04-TheAccumulatorPattern/.idea/04-TheAccumulatorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05a-Debugging/.idea/05a-Debugging.iml" filepath="$PROJECT_DIR$/../05a-Debugging/.idea/05a-Debugging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05b-Exam1Practice/.idea/05b-Exam1Practice.iml" filepath="$PROJECT_DIR$/../05b-Exam1Practice/.idea/05b-Exam1Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../09-ImplementingClasses/.idea/09-ImplementingClasses.iml" filepath="$PROJECT_DIR$/../09-ImplementingClasses/.idea/09-ImplementingClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10-MoreImplementingClasses/.idea/10-MoreImplementingClasses.iml" filepath="$PROJECT_DIR$/../10-MoreImplementingClasses/.idea/10-MoreImplementingClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../11-Sequences/.idea/11-Sequences.iml" filepath="$PROJECT_DIR$/../11-Sequences/.idea/11-Sequences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../12-MoreSequences/.idea/12-MoreSequences.iml" filepath="$PROJECT_DIR$/../12-MoreSequences/.idea/12-MoreSequences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../13-Exam2Practice/.idea/13-Exam2Practice.iml" filepath="$PROJECT_DIR$/../13-Exam2Practice/.idea/13-Exam2Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../14-WaitUntilEvent_WhileLoops/.idea/14-WaitUntilEvent_WhileLoops.iml" filepath="$PROJECT_DIR$/../14-WaitUntilEvent_WhileLoops/.idea/14-WaitUntilEvent_WhileLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../16-SequencesAndMutation/.idea/16-SequencesAndMutation.iml" filepath="$PROJECT_DIR$/../16-SequencesAndMutation/.idea/16-SequencesAndMutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exam1/.idea/Exam1.iml" filepath="$PROJECT_DIR$/../Exam1/.idea/Exam1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Exam1_Spring.iml" filepath="$PROJECT_DIR$/.idea/Exam1_Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exam_2_Week_10/.idea/Exam_2_Week_10.iml" filepath="$PROJECT_DIR$/../Exam_2_Week_10/.idea/Exam_2_Week_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyPoint/.idea/MyPoint.iml" filepath="$PROJECT_DIR$/../MyPoint/.idea/MyPoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyStudent/.idea/MyStudent.iml" filepath="$PROJECT_DIR$/../MyStudent/.idea/MyStudent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../My_Grade/.idea/My_Grade.iml" filepath="$PROJECT_DIR$/../My_Grade/.idea/My_Grade.iml" />
     </modules>
   </component>
 </project>

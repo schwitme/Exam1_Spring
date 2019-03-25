@@ -6,6 +6,24 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="14-WaitUntilEvent_WhileLoops" />
+    <orderEntry type="module" module-name="01-IntroductionToPython" />
+    <orderEntry type="module" module-name="02-ObjectsFunctionsAndMethods" />
+    <orderEntry type="module" module-name="03-AccumulatorsAndFunctionsWithParameters" />
+    <orderEntry type="module" module-name="04-TheAccumulatorPattern" />
+    <orderEntry type="module" module-name="05a-Debugging" />
+    <orderEntry type="module" module-name="05b-Exam1Practice" />
+    <orderEntry type="module" module-name="09-ImplementingClasses" />
+    <orderEntry type="module" module-name="10-MoreImplementingClasses" />
+    <orderEntry type="module" module-name="11-Sequences" />
+    <orderEntry type="module" module-name="12-MoreSequences" />
+    <orderEntry type="module" module-name="13-Exam2Practice" />
+    <orderEntry type="module" module-name="Exam1" />
+    <orderEntry type="module" module-name="Exam_2_Week_10" />
+    <orderEntry type="module" module-name="My_Grade" />
+    <orderEntry type="module" module-name="MyPoint" />
+    <orderEntry type="module" module-name="MyStudent" />
+    <orderEntry type="module" module-name="16-SequencesAndMutation" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
