@@ -25,6 +25,7 @@
     <orderEntry type="module" module-name="MyStudent" />
     <orderEntry type="module" module-name="16-SequencesAndMutation" />
     <orderEntry type="module" module-name="18-LoopsWithinLoops" />
+    <orderEntry type="module" module-name="19-MoreLoopsWithinLoops" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
