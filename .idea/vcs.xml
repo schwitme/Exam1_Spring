@@ -16,6 +16,7 @@
     <mapping directory="$PROJECT_DIR$/../16-SequencesAndMutation" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../18-LoopsWithinLoops" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../19-MoreLoopsWithinLoops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../20-Exam3Practice" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Exam1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Exam_2_Week_10" vcs="Git" />
   </component>
